@@ -1,0 +1,41 @@
+h1{
+    font-family: 'Abril Fatface', cursive;
+    color:darkblue;
+    text-align:center;
+    text-decoration:underline;
+}
+.best{
+    color:blue;
+    font-family: 'Bitter', serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.great{
+    color:darkblue;
+    font-family: 'Bitter', serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.good{
+   font-family: 'Abril Fatface', cursive;
+   color: white;
+   font-size: 20px;
+}
+.amazing{
+    color:grey;
+    font-weight: bold;
+    font-size: 20px;
+}
+img{
+    border-style:dotted;
+    border-color:darkblue;
+    width: 50%;
+    height: auto;
+}
+p{
+    background-color:beige;
+    font-size:30px;
+}
+body{
+    background-color:#ccf;
+}
